@@ -1,0 +1,14 @@
+header {
+    background-color: rgb(255, 255, 255);
+}
+.Menu{
+    position: absolute;
+    right: 100px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    
+}
+head {
+    background-color: black;
+}
